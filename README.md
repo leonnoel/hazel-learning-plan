@@ -38,7 +38,7 @@ The plan is broken down into 9 week chunks. Each week will have the following:
 | ---------|:-------------:| :-----:|
 | Read     | [The JS Way Ch. 01](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter01.md) | To help refresh the basics of JS |
 | Read     | [The JS Way Ch. 02](https://github.com/bpesquet/thejsway/blob/master/manuscript/chapter02.md) | Learn the new ES6+ variable syntax |
-| Watch    | [JS Fundamental Video](https://youtu.be/vEROU2XtPR8)      | Review of all the major concepts in JS (☠️ WARNING: Not ES6+) |
+| Watch    | [JS Fundamental Video](https://youtu.be/hdI2bqOjy3c)      | Review of all the major concepts in JS |
 | Do       | [Sign Up for JS30](https://javascript30.com/)      | Daily Challenges that will help you learn JS |
 | Do       | [Sign Up for CodeWars](https://www.codewars.com/)  | Daily Challenges that will help you learn JS  |
 
